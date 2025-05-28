@@ -93,7 +93,3 @@ Response:
     "prediction": 5
 }
 ```
-
-## License
-
-MIT 
